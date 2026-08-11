@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>Employee Management</h1>
+      <h1>Employee Management System</h1>
 
       <button>Add Employee</button>
 
